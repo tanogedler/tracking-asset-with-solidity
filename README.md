@@ -1,10 +1,10 @@
-### Smart contract for supply chain
+## Smart contract for supply chain
 
 
 
-## Preparation of the environment:
+### Preparation of the environment:
 
-The first thing was to prepare the development environment. For this we installed the development environment for Ethereum called Truffle and a test blockchain called Ganache.
+The first thing needed is to prepare the development environment. For this we installed the development environment for Ethereum called Truffle
 
 1.  install Truffle:
 
