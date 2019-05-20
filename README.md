@@ -15,7 +15,7 @@ npm install -g truffle
 2.  initialize the project with Truffle you must do the following:
 
 ```
-mkdir tracking-asset-with-solidiy && cd tracking-asset-with-solidiy
+mkdir tracking-asset-with-solidity && cd tracking-asset-with-solidity
 init truffle
 ```
 
@@ -23,10 +23,10 @@ init truffle
 
 4.Compile the contract
 ```
-Truffle compile
+truffle compile
 ```
 
 4. Deploy the contract: 
 ```
-Truffle migrate
+truffle migrate
 ```
